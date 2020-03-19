@@ -1,0 +1,6 @@
+{
+    "env": {
+        "URL_DATABASE": "mongodb://localhost/RestApi",
+        "JWT_KEY": "abcdjdskdajajajnaja"
+    }
+}
